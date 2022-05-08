@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>css on Rahul Srivastava Blog</title>
-    <link>/tags/css/</link>
+    <link>https://bespoke-dusk-39aa52.netlify.app/tags/css/</link>
     <description>Recent content in css on Rahul Srivastava Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 May 2022 23:00:46 +0530</lastBuildDate><atom:link href="/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 May 2022 23:00:46 +0530</lastBuildDate><atom:link href="https://bespoke-dusk-39aa52.netlify.app/tags/css/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Second</title>
-      <link>/posts/second/</link>
+      <link>https://bespoke-dusk-39aa52.netlify.app/posts/second/</link>
       <pubDate>Sat, 07 May 2022 23:00:46 +0530</pubDate>
       
-      <guid>/posts/second/</guid>
+      <guid>https://bespoke-dusk-39aa52.netlify.app/posts/second/</guid>
       <description>Hello Rahul Srivastava</description>
     </item>
     
